@@ -13,7 +13,7 @@ Sau khi xoá bớt ký tự thừa thì được:
 Trông đoạn `str ord` giống như code Python nên mình liên tưởng tới đây là hex của file .PYC 
 Ném đoạn hex lên http://tomeko.net/online_tools/hex_to_file.php để tái tạo lại file .PYC
 
-Khi đã có file .PYC rồi ta ném lại sang https://www.decompiler.com/ để ngược về file .PY 
+Khi đã có file [.PYC](myfile.pyc) rồi ta ném lại sang https://www.decompiler.com/ để ngược về file .PY 
 
 Code Python sau khi dịch từ .PYC
 ```python=
