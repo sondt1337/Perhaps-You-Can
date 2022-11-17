@@ -15,7 +15,7 @@ Use **http://tomeko.net/online_tools/hex_to_file.php** to restore .PYC file
 
 when you have [.PYC file](solve/myfile.pyc), i put it into https://www.decompiler.com/ to reverse .PY file
 
-code python:
+[code python](solve/reverse.py):
 ```python=
 # uncompyle6 version 3.7.4
 # Python bytecode 3.8 (3413)
