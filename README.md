@@ -13,7 +13,7 @@ After removing redundant characters:
 "std ord" belongs to Python so I think this is the hex code of .PYC file
 Use **http://tomeko.net/online_tools/hex_to_file.php** to restore .PYC file
 
-when you have [.PYC file](myfile.pyc), i put it into https://www.decompiler.com/ to reverse .PY file
+when you have [.PYC file](solve/myfile.pyc), i put it into https://www.decompiler.com/ to reverse .PY file
 
 code python:
 ```python=
